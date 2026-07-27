@@ -1,0 +1,5 @@
+# Python libraries to install
+streamlit>=1.30.0
+groq>=0.4.0
+python-dotenv>=1.0.0
+requests>=2.25.0
