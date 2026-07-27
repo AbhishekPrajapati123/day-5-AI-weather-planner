@@ -1,7 +1,7 @@
 # Documentation for MY tool integration
 # 🌤️ AI Weather-Aware Travel & Outfit Planner
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#) <!-- Add your live Streamlit URL inside the (#) -->
+[![Streamlit App](https://day-5-ai-weather-planner.streamlit.app/)](#) <!-- Add your live Streamlit URL inside the (#) -->
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![API](https://img.shields.io/badge/API-Open--Meteo-brightgreen.svg)](https://open-meteo.com/)
 [![Groq API](https://img.shields.io/badge/Groq-Llama_3.1-orange.svg)](https://groq.com/)
