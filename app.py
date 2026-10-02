@@ -86,7 +86,7 @@ if st.button("Get Weather & AI Plan 🚀"):
                             """
                             
                             response = client.chat.completions.create(
-                                model="llama-3.1-8b-instant",
+                                model="openai/gpt-oss-120b",
                                 messages=[
                                     {"role": "system", "content": "You are an AI travel consultant utilizing live API tools."},
                                     {"role": "user", "content": prompt}
